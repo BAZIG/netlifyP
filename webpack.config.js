@@ -27,16 +27,19 @@ module.exports = {
         template: "./public/index.html",
         filename: "./index.html",
       }),
-    ],  
-    resolve: {
-        alias: {
-          "react-native": "react-native-web"
+    ],
+    resolve:{
+        alias:{
+            "react-native": "react-native-web"
         },
-        extensions: [".web.js", ".js"]
-      },
-    devServer: {
+        extensions: [".web.js",".js"]
+    },
+      devServer: {
       historyApiFallback: true,
       contentBase: "./",
       hot: true,
+    },
+    "scripts":{
+        "start": "webpack serve --config ./webpack.config.js --mode development",
     },
   }
