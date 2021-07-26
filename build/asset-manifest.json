@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pawan-kumar-dev/React-whatsapp-clonestatic/css/main.742b5c99.chunk.css",
+    "main.js": "/pawan-kumar-dev/React-whatsapp-clonestatic/js/main.d36e4750.chunk.js",
+    "main.js.map": "/pawan-kumar-dev/React-whatsapp-clonestatic/js/main.d36e4750.chunk.js.map",
+    "runtime-main.js": "/pawan-kumar-dev/React-whatsapp-clonestatic/js/runtime-main.543c0fe4.js",
+    "runtime-main.js.map": "/pawan-kumar-dev/React-whatsapp-clonestatic/js/runtime-main.543c0fe4.js.map",
+    "static/js/2.609be15c.chunk.js": "/pawan-kumar-dev/React-whatsapp-clonestatic/js/2.609be15c.chunk.js",
+    "static/js/2.609be15c.chunk.js.map": "/pawan-kumar-dev/React-whatsapp-clonestatic/js/2.609be15c.chunk.js.map",
+    "index.html": "/pawan-kumar-dev/React-whatsapp-cloneindex.html",
+    "precache-manifest.f029769ae5134f6175a2b05cced537ad.js": "/pawan-kumar-dev/React-whatsapp-cloneprecache-manifest.f029769ae5134f6175a2b05cced537ad.js",
+    "service-worker.js": "/pawan-kumar-dev/React-whatsapp-cloneservice-worker.js",
+    "static/css/main.742b5c99.chunk.css.map": "/pawan-kumar-dev/React-whatsapp-clonestatic/css/main.742b5c99.chunk.css.map",
+    "static/js/2.609be15c.chunk.js.LICENSE.txt": "/pawan-kumar-dev/React-whatsapp-clonestatic/js/2.609be15c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.543c0fe4.js",
+    "static/js/2.609be15c.chunk.js",
+    "static/css/main.742b5c99.chunk.css",
+    "static/js/main.d36e4750.chunk.js"
+  ]
+}

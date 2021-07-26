@@ -1,6 +1,5 @@
 import React from "react";
 import "./App.css";
-import { Text } from "react-native"
 import ReactDOM from "react-dom"
 import Sidebar from "./Components/Sidebar/Sidebar";
 import Chat from "./Components/Chats/Chat";
